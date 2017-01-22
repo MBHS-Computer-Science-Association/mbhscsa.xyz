@@ -4,6 +4,6 @@
   "description": "The official website of the McKinney Boyd High School Computer Science Association",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.14.0"
   }
 }
